@@ -26,7 +26,7 @@ pkg install wget -y
 # 3) Download Installation script and make it execuatble
 
 ```
-wget https://raw.githubusercontent.com/kavyamali/qemuontermux-debian/main/installdebian_raw.sh
+wget https://raw.githubusercontent.com/plushplank/qemuontermux-debian/main/installdebian_raw.sh
 ```
 
 ```
